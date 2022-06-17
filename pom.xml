@@ -35,7 +35,7 @@
         <alibaba.cloud.version>2.1.0.RELEASE</alibaba.cloud.version>
         <mybatis.spring.version>2.0.1</mybatis.spring.version>
         <!--json-->
-        <fastjson.version>1.2.62</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <!--跳过测试-->
         <skipTests>true</skipTests>
         <!--mybatis generator-->
